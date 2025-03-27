@@ -1,0 +1,53 @@
+Deník
+Mašl
+1.Sprint
+Během prvního sprintu jsem společně s ostatními pracoval na obecné domluvě práce při tvorbě projektu.
+Tento proces se nám myslím povedl. Nestrávily jsme tím sice příliš mnoho času, ale vzhledem k tomu, že jsme již veděli co od hry očekáváme, tak to bylo pouze ohraničení co zvládneme.
+Během této části nevznikla žádná část ke hře, jednalo se pouze o naše rozplánování. 
+Také jsme se měli čas domluvit jak bude vypadat naše komunikace a práce s GitLabem.
+
+2.Sprint
+Tentokrát jsem měl na starost doplnění scénáře a skriptu, vytvořit popis hádanek a prostředí.!!!!!!!!!!!!!!!
+Tento úkol mě nemile překvapil. Očekával jsem, že vymyslet jednoduchou zápletku a puzzly a minihry bude snažší.
+Tento úkol se na konec docela povedl, i když musím přiznat, že to byla ta nejvíce náročná část, aby se vše využilo a nebylo nic, zbytečné.
+Nejhorší bylo neustále vracení k předchozím místnostem, až člověku začne splívat co kam dal.
+Řešením k tomuto by pravděpodobně mohlo být nějaké schéma místností a itemů, avšak na to jsem tou dobou nepřišel.
+
+3.Sprint
+Tento sprint beru jako nejméně povedený, co se týče mé práce. Za úlohu jsem měl přidat druhou místnost. To se zdálo jako poměrně jednoduché vzhledem k tomu, že již jedna místnost ve hře byla.
+Velikým problémem, kterému jsem čelil bylo však, že jsem s prací v Unity byl nový. A proto když jsem měl vymyslet, jakým způsobem udělat objekt zmáčknutelný.
+Toto mi teď, když vím jak na to příjde jako hloupost, kterou každý vyřeší za pět minut, ale opravdu tomu tak nebylo. Nejen, že jsem měl problém s mačkáním objeků, ale také jsem poprvé pracoval s knihovnou SceneManager.
+Nepříjemnost také je, že Unity je lépe připraveno na 2D hry kde se na obrazovce pohybuje postavička a většina návodů na internetu je také na hry tohoto typu.
+Toto obecně znepříjemnilo mé učení Unity.
+Do místnosti jsem také vložil pár objektů, a vytvořil jsem hover effect pro sprite v této místnosti.
+
+4.Sprint
+Tento sprint byl, řekl bych, o něco povedenější než minulý.
+Když se na něj kouknu retrospektivně, tak jsem přepínání scén a přidal jsem třetí místnost. To nebyla žádná veliká výzva, vzhledem k tomu, že jsem již vše uměl z minulého sprintu.
+Jediné na co jsem zde narazil byl, problém objektů ve spritu místnosti, který se však rychle vyřešil.
+Jednalo se o to že na pozadí byli předměty, které tam po dohrání minihry neměli být vůbec. Tyto menší sprity se tedy začali oddělovat od celkových spritů místnosti.
+
+5.Sprint
+Tento sprint nebylo nic zadáno učitele. Rozhodli jsme se tedy, že do hry přidám zbytek místností. Toto nebylo příliš časově náročné, avšak pár problémů se naskytlo.
+Jediné co nebylo příjemné, bylo to, že Filip, který vše musel kreslit příliš nestíhal, a proto jsem tento úkol dodělával dost na poslední chvíly.
+Nakonec jsme i některé sprity místností doupravovali ještě následující sprint.
+
+6.Sprint
+Znovu nic nebylo zadáno učitelem, ale měli jsme si rozmyslet co a jak abychom hru stihli během následujících třech sprintů.
+Proto jsme udělali dokument kde jsme si práci rozdělili.!!!!!!!!!
+Mým úkolem na tento sprint bylo, abych udělal UI miniher a jejich načítání, Pausemenu a také první minihru, kterou bylo vylamování zámku.
+Toto bylo více práce než co jsem dělal doteď, a proto jsem časově tolik nestíhal.
+Nejdéle mi trvalo udělat systém pausování a také pravidelný pohyb v první minihře.
+Vše jsem nakonec stihl včas a vše fungovalo.
+
+7.Sprint
+Tentokrát na mém seznamu úloh bylo vytvořit dvě další minihry. 
+První byla minihra s runami. Dělání této hry mě mile překvapilo. Očekával jsem totiž, že to bude s náročnější minihry, ale nakonec se ukázalo, že šlo o poměrně snadnou minihru.
+Další minihrou bylo spálení blokády v místnosti se schody. Tato minihra sice byla již v podstatě hotova z první místnosti, avšak v mé místnosti to nefungovalo, a proto jsem to řešil znovu.
+Mezitím jsem ještě dodělával menší nedostatky na naší hře a začal jsem experimentovat s přidáním zvuků.
+
+8.Sprint
+Tento poslední sprint byl velice intenzivní nejen, že jsme museli dodělat celou hru, ale zároveň jsme museli udělat i dokumentaci. 
+Na hře bylo poměrně dost práce, muselo se vše dokončit a dodělat resty z minulých sprintů.
+Během těchto tří týdnů jsem na projektu strávil zdaleka nejvíce času. Také mě vývoj v tomto čase nejvíce bavil. 
+Sice bylo vše narychlo, ale zároveň jsem všemu lépe rozumněl a také jsem začal chápat některé vychytávky a scripty od Matěje.

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145fbfc00cac5514c93f62f0d72cb8b4, type: 3}
+  m_Name: paklic
+  m_EditorClassIdentifier: 
+  craftFromItem:
+  - {fileID: 11400000, guid: e936108460c35f145a9245f53205ec58, type: 2}
+  - {fileID: 11400000, guid: 46d8bff12bf0da849aeeec0172decdc9, type: 2}
+  craftItem: {fileID: 11400000, guid: 4b5adf0fe2a91cc4fb23185e830ab253, type: 2}

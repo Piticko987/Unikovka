@@ -1,0 +1,3 @@
+Beneš - grafické podklady pro třetí místnost
+Mašl - třetí místnost
+Černý - pohyb ve vrstvě UI,přenášení inventáře mezi scénami,řešení merge konfliktů

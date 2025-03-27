@@ -1,0 +1,3 @@
+Beneš - grafické podklady pro druhou místnost (chodba)
+Mašl - druhá místnost (chodba)
+Černý - inventář jako samostatné okno vyvolané klávesovou zkratkou

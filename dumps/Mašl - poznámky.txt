@@ -1,0 +1,9 @@
+Sprint2
+
+Sprint3
+přepínání scén - fail
+Sprint4
+Přidání místnosti 2 a 3 - ez
+přepínání scén - pain (nešlo kliknout na čtverec, chyběl box collider)
+hover efekt u použitelných objektů - celkem ez
+přídání scény přes jinou na minihry
